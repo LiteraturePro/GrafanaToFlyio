@@ -17,7 +17,7 @@ destination = "/var/lib/grafana"
 
 
 [env]
-GF_INSTALL_PLUGINS = "grafana-worldmap-panel,grafana-clock-panel,worldPing"
+GF_INSTALL_PLUGINS = "grafana-worldmap-panel,grafana-clock-panel,raintank-worldping-app"
 
 [experimental]
   allowed_public_ports = []
